@@ -1,3 +1,3 @@
 # Trilha JS Developer - Pokedex
 
-Modified by Lucas Andrade
+Modified by CordLucas
